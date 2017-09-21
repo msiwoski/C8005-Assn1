@@ -1,0 +1,13 @@
+NOTES:
+
+To run the processes version of the application:
+
+gcc -o processes processes.c -lm
+./processes 5
+
+To run the threads version of the application:
+
+gcc -o threads threads.c -pthread
+./threads 5
+
+

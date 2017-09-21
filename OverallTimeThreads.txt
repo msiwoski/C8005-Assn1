@@ -1,0 +1,1 @@
+Time to run: 5 threads of the Sieve in microseconds: 41464 microseconds

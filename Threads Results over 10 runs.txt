@@ -1,0 +1,12 @@
+The results of running the Threads application 10 times in a row.
+
+1: 	42883 microseconds
+2: 	56442 microseconds
+3: 	41703 microseconds
+4: 	39786 microseconds
+5: 	37228 microseconds
+6: 	53323 microseconds
+7: 	41598 microseconds
+8: 	27721 microseconds
+9: 	54196 microseconds
+10: 	41464 microseconds 

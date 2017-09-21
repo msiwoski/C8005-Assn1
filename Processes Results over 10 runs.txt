@@ -1,0 +1,12 @@
+The results of running the Processes application 10 times in a row.
+
+1: 	36790 microseconds
+2: 	44215 microseconds
+3: 	56541 microseconds
+4: 	34849 microseconds
+5: 	75164 microseconds
+6: 	34083 microseconds
+7: 	67920 microseconds
+8: 	40859 microseconds
+9: 	37516 microseconds
+10: 	35542 microseconds 

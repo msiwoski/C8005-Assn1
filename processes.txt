@@ -1,0 +1,416 @@
+1
+
+i:2
+j:2
+Before a[2*2]: 1
+After a[2*2]: 0
+j:3
+Before a[2*3]: 1
+After a[2*3]: 0
+j:4
+Before a[2*4]: 1
+After a[2*4]: 0
+j:5
+Before a[2*5]: 1
+After a[2*5]: 0
+j:6
+Before a[2*6]: 1
+After a[2*6]: 0
+j:7
+Before a[2*7]: 1
+After a[2*7]: 0
+j:8
+Before a[2*8]: 1
+After a[2*8]: 0
+j:9
+Before a[2*9]: 1
+After a[2*9]: 0
+j:10
+Before a[2*10]: 1
+After a[2*10]: 0
+j:11
+Before a[2*11]: 1
+After a[2*11]: 0
+j:12
+Before a[2*12]: 1
+After a[2*12]: 0
+j:13
+Before a[2*13]: 1
+After a[2*13]: 0
+j:14
+Before a[2*14]: 1
+After a[2*14]: 0
+j:15
+Before a[2*15]: 1
+After a[2*15]: 0
+j:16
+Before a[2*16]: 1
+After a[2*16]: 0
+j:17
+Before a[2*17]: 1
+After a[2*17]: 0
+j:18
+Before a[2*18]: 1
+After a[2*18]: 0
+j:19
+Before a[2*19]: 1
+After a[2*19]: 0
+j:20
+Before a[2*20]: 1
+After a[2*20]: 0
+j:21
+Before a[2*21]: 1
+After a[2*21]: 0
+j:22
+Before a[2*22]: 1
+After a[2*22]: 0
+j:23
+Before a[2*23]: 1
+After a[2*23]: 0
+j:24
+Before a[2*24]: 1
+After a[2*24]: 0
+j:25
+Before a[2*25]: 1
+After a[2*25]: 0
+j:26
+Before a[2*26]: 1
+After a[2*26]: 0
+j:27
+Before a[2*27]: 1
+After a[2*27]: 0
+j:28
+Before a[2*28]: 1
+After a[2*28]: 0
+j:29
+Before a[2*29]: 1
+After a[2*29]: 0
+j:30
+Before a[2*30]: 1
+After a[2*30]: 0
+j:31
+Before a[2*31]: 1
+After a[2*31]: 0
+j:32
+Before a[2*32]: 1
+After a[2*32]: 0
+j:33
+Before a[2*33]: 1
+After a[2*33]: 0
+j:34
+Before a[2*34]: 1
+After a[2*34]: 0
+j:35
+Before a[2*35]: 1
+After a[2*35]: 0
+j:36
+Before a[2*36]: 1
+After a[2*36]: 0
+j:37
+Before a[2*37]: 1
+After a[2*37]: 0
+j:38
+Before a[2*38]: 1
+After a[2*38]: 0
+j:39
+Before a[2*39]: 1
+After a[2*39]: 0
+j:40
+Before a[2*40]: 1
+After a[2*40]: 0
+j:41
+Before a[2*41]: 1
+After a[2*41]: 0
+j:42
+Before a[2*42]: 1
+After a[2*42]: 0
+j:43
+Before a[2*43]: 1
+After a[2*43]: 0
+j:44
+Before a[2*44]: 1
+After a[2*44]: 0
+j:45
+Before a[2*45]: 1
+After a[2*45]: 0
+j:46
+Before a[2*46]: 1
+After a[2*46]: 0
+j:47
+Before a[2*47]: 1
+After a[2*47]: 0
+j:48
+Before a[2*48]: 1
+After a[2*48]: 0
+j:49
+Before a[2*49]: 1
+After a[2*49]: 0
+j:50
+Before a[2*50]: 1
+After a[2*50]: 0
+i:3
+j:3
+Before a[3*3]: 1
+After a[3*3]: 0
+j:4
+Before a[3*4]: 0
+After a[3*4]: 0
+j:5
+Before a[3*5]: 1
+After a[3*5]: 0
+j:6
+Before a[3*6]: 0
+After a[3*6]: 0
+j:7
+Before a[3*7]: 1
+After a[3*7]: 0
+j:8
+Before a[3*8]: 0
+After a[3*8]: 0
+j:9
+Before a[3*9]: 1
+After a[3*9]: 0
+j:10
+Before a[3*10]: 0
+After a[3*10]: 0
+j:11
+Before a[3*11]: 1
+After a[3*11]: 0
+j:12
+Before a[3*12]: 0
+After a[3*12]: 0
+j:13
+Before a[3*13]: 1
+After a[3*13]: 0
+j:14
+Before a[3*14]: 0
+After a[3*14]: 0
+j:15
+Before a[3*15]: 1
+After a[3*15]: 0
+j:16
+Before a[3*16]: 0
+After a[3*16]: 0
+j:17
+Before a[3*17]: 1
+After a[3*17]: 0
+j:18
+Before a[3*18]: 0
+After a[3*18]: 0
+j:19
+Before a[3*19]: 1
+After a[3*19]: 0
+j:20
+Before a[3*20]: 0
+After a[3*20]: 0
+j:21
+Before a[3*21]: 1
+After a[3*21]: 0
+j:22
+Before a[3*22]: 0
+After a[3*22]: 0
+j:23
+Before a[3*23]: 1
+After a[3*23]: 0
+j:24
+Before a[3*24]: 0
+After a[3*24]: 0
+j:25
+Before a[3*25]: 1
+After a[3*25]: 0
+j:26
+Before a[3*26]: 0
+After a[3*26]: 0
+j:27
+Before a[3*27]: 1
+After a[3*27]: 0
+j:28
+Before a[3*28]: 0
+After a[3*28]: 0
+j:29
+Before a[3*29]: 1
+After a[3*29]: 0
+j:30
+Before a[3*30]: 0
+After a[3*30]: 0
+j:31
+Before a[3*31]: 1
+After a[3*31]: 0
+j:32
+Before a[3*32]: 0
+After a[3*32]: 0
+j:33
+Before a[3*33]: 1
+After a[3*33]: 0
+i:4
+i:5
+j:5
+Before a[5*5]: 1
+After a[5*5]: 0
+j:6
+Before a[5*6]: 0
+After a[5*6]: 0
+j:7
+Before a[5*7]: 1
+After a[5*7]: 0
+j:8
+Before a[5*8]: 0
+After a[5*8]: 0
+j:9
+Before a[5*9]: 0
+After a[5*9]: 0
+j:10
+Before a[5*10]: 0
+After a[5*10]: 0
+j:11
+Before a[5*11]: 1
+After a[5*11]: 0
+j:12
+Before a[5*12]: 0
+After a[5*12]: 0
+j:13
+Before a[5*13]: 1
+After a[5*13]: 0
+j:14
+Before a[5*14]: 0
+After a[5*14]: 0
+j:15
+Before a[5*15]: 0
+After a[5*15]: 0
+j:16
+Before a[5*16]: 0
+After a[5*16]: 0
+j:17
+Before a[5*17]: 1
+After a[5*17]: 0
+j:18
+Before a[5*18]: 0
+After a[5*18]: 0
+j:19
+Before a[5*19]: 1
+After a[5*19]: 0
+j:20
+Before a[5*20]: 0
+After a[5*20]: 0
+i:6
+i:7
+j:7
+Before a[7*7]: 1
+After a[7*7]: 0
+j:8
+Before a[7*8]: 0
+After a[7*8]: 0
+j:9
+Before a[7*9]: 0
+After a[7*9]: 0
+j:10
+Before a[7*10]: 0
+After a[7*10]: 0
+j:11
+Before a[7*11]: 1
+After a[7*11]: 0
+j:12
+Before a[7*12]: 0
+After a[7*12]: 0
+j:13
+Before a[7*13]: 1
+After a[7*13]: 0
+j:14
+Before a[7*14]: 0
+After a[7*14]: 0
+i:8
+i:9
+i:10
+i:11
+i:12
+i:13
+i:14
+i:15
+i:16
+i:17
+i:18
+i:19
+i:20
+i:21
+i:22
+i:23
+i:24
+i:25
+i:26
+i:27
+i:28
+i:29
+i:30
+i:31
+i:32
+i:33
+i:34
+i:35
+i:36
+i:37
+i:38
+i:39
+i:40
+i:41
+i:42
+i:43
+i:44
+i:45
+i:46
+i:47
+i:48
+i:49
+i:50
+i:51
+i:52
+i:53
+i:54
+i:55
+i:56
+i:57
+i:58
+i:59
+i:60
+i:61
+i:62
+i:63
+i:64
+i:65
+i:66
+i:67
+i:68
+i:69
+i:70
+i:71
+i:72
+i:73
+i:74
+i:75
+i:76
+i:77
+i:78
+i:79
+i:80
+i:81
+i:82
+i:83
+i:84
+i:85
+i:86
+i:87
+i:88
+i:89
+i:90
+i:91
+i:92
+i:93
+i:94
+i:95
+i:96
+i:97
+i:98
+i:99
+i:100
+Primes numbers from 1 to 100 are : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 
+
+0

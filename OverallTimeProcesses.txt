@@ -1,0 +1,1 @@
+Time to run: 5 processes of the Sieve in microseconds: 35542 microseconds
